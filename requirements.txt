@@ -1,0 +1,11 @@
+numpy
+torch
+torchvision
+torchaudio
+scipy
+scikit-image
+tensorboardX
+tqdm
+torch-encoding
+opencv-python
+PyYAML
